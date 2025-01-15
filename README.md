@@ -18,7 +18,7 @@ Desarrollar una aplicación en React que consuma la API creada en la Parte 2.
 
 ## Resultado:
 
-### Inicio de sesion
+### Inicio de sesión
 <p align="center">
   <img src="./src/assets/img/views/login.png" alt="Login">
 </p>
