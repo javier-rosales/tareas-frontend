@@ -1,8 +1,17 @@
-# React + Vite
+# Desarrollo Frontend con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Instrucciones:
+Desarrollar una aplicación en React que consuma la API creada en la Parte 2.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requerimientos:
+1. **Vistas requeridas:**
+   - **Inicio de sesión:**
+     - Permitir a los usuarios ingresar su correo y contraseña para autenticarse.
+   - **Lista de tareas:**
+     - Mostrar todas las tareas del usuario autenticado.
+     - Incluir botones para editar el estado y eliminar tareas.
+   - **Crear tarea:**
+     - Formulario para agregar una nueva tarea.
+2. **Extras:**
+   - Usar React Router para manejar las rutas.
+   - Estilizar la aplicación utilizando CSS, Bootstrap o una librería como Material-UI.
